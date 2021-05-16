@@ -44,3 +44,11 @@ html {
 .blog-img img {
 	border-radius: 2rem;
 }
+.icons i {
+	font-size: 2.4rem;
+	color: rgb(19, 220, 25);
+}
+.icons p {
+	font-size: 1.5rem;
+	font-weight: 500;
+}
